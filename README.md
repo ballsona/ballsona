@@ -23,5 +23,10 @@ const { techStack, experiences } = useBallsona();
 - 사소한 궁금증 공유 플랫폼 '사실;' 프로젝트 `22.02 - 22.08`
 - GDSC Soongsil 1기 Web/Mobile Team Member `21.09 - 22.08`
 
-
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/ballsona"
+  width="600"
+  height="300"
+/>
+</a>
