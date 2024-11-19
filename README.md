@@ -1,4 +1,3 @@
-## Gong sona, Frontend Developer <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1573198836/noticon/uydcemefupin4kvi5pii.gif" width="35"/>
 
 ```js
 const { techStack, experiences,  contributions } = useBallsona();
